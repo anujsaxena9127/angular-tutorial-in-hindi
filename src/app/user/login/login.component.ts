@@ -10,7 +10,7 @@ export class LoginComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-  }
+  } 
   getName(){
     alert("My name is Anuj")
   }

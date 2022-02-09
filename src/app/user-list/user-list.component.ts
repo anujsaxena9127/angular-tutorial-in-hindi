@@ -11,5 +11,8 @@ export class UserListComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  getName(){
+    alert("my name is Anuj")
+  }
 
 }
